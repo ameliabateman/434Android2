@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuNoSymmetry"
+        android:title="No Symmetry"
+        />
+
+    <item android:id="@+id/menuHorizontal"
+        android:title="Horizontal" />
+
+    <item android:id="@+id/menuVertical"
+        android:title="Vertical" />
+
+    <item android:id="@+id/menuRadial"
+        android:title="Radial" />
+
+
+
+
+
+</menu>
